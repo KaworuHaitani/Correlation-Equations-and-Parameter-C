@@ -1,0 +1,33 @@
+cff-version: 1.0
+message: "If you use this theoretical framework, please cite it as below."
+authors:
+  - family-names: "Haitani"
+    given-names: "Kaworu"
+type: software
+title: "Correlation Equations and Parameter C: Unified Theoretical Framework"
+version: 1.0.0
+date-released: 2025-09-15
+url: "https://github.com/KaworuHaitani/correlation-equations-framework"
+repository-code: "https://github.com/KaworuHaitani/correlation-equations-framework"
+abstract: "A comprehensive theoretical framework that unifies quantum mechanics, general relativity, and cosmology through hierarchical correlation structures governed by the universal correlation parameter C. The theory establishes rigorous axiom systems with correlation functionals C[Ô], provides first-principles derivations from quantum vacuum fluctuations and gravitational entanglement, and offers solutions to fundamental physics problems including quantum gravity, physical constants derivation, Standard Model structure, and 3+1-dimensional spacetime emergence while delivering specific experimental predictions and computational implementation methods."
+keywords:
+  - "correlation equations"
+  - "correlation parameter"
+  - "unified field theory"
+  - "quantum gravity"
+  - "correlation functionals"
+  - "spacetime emergence"
+  - "physical constants derivation"
+  - "standard model structure"
+  - "dimensional selection"
+  - "gravitational entanglement"
+  - "quantum vacuum fluctuations"
+  - "renormalization group"
+  - "hubble tension"
+  - "hierarchy problem"
+  - "correlation physics"
+  - "information theory"
+references:
+  - type: website
+    url: "https://github.com/KaworuHaitani/correlation-equations-framework"
+    title: "Correlation Equations and Parameter C: Unified Theoretical Framework"
